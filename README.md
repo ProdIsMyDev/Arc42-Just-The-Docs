@@ -1,13 +1,13 @@
 # About this project
-This project is based on [Just-The-Docs](https://github.com/pmarsceill/just-the-docs) and the [Arc42 documentation template](https://arc42.org/download)
+This project is based on [Just the Docs](https://github.com/pmarsceill/just-the-docs) and the [Arc42 documentation template](https://arc42.org/download)
 
 
 ## About the project
-Arc42 Just-The-Docs is &copy; 2021-{{ "now" | date: "%Y" }} by [Christoph Koenning](https://prodismy.dev).
+Arc42 Just-The-Docs is &copy; 2021 by [Christoph Koenning](https://prodismy.dev).
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+Arc42 Just-The-Docs is distributed by an [MIT license](https://github.com/ProdIsMyDev/Arc42-Just-The-Docs/blob/main/LICENSE).
 
 ### Contributing
 

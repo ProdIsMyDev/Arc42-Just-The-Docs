@@ -9,7 +9,7 @@ permalink: /
 # About this project
 {: .fs-9 }
 
-This project is based on [Just-The-Docs](https://github.com/pmarsceill/just-the-docs) and the [Arc42 documentation template](https://arc42.org/download)
+This project is based on [Just the Docs](https://github.com/pmarsceill/just-the-docs) and the [Arc42 documentation template](https://arc42.org/download)
 {: .fs-6 .fw-300 }
 
 [GitHub](https://github.com/ProdIsMyDev/Arc42-Just-The-Docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
@@ -20,7 +20,7 @@ Arc42 Just-The-Docs is &copy; 2021-{{ "now" | date: "%Y" }} by [Christoph Koenni
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/ProdIsMyDev/Arc42-Just-The-Docs/LICENSE).
+Arc42 Just-The-Docs is distributed by an [MIT license](https://github.com/ProdIsMyDev/Arc42-Just-The-Docs/blob/main/LICENSE).
 
 
 ### Contributing
